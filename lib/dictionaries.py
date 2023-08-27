@@ -13,5 +13,4 @@ def word_frequency(sentence):
     return freq_dict
 
 sentence = "This is a test sentence. This sentence is a test."
-result = word_frequency(sentence)
-print(result)
+print(word_frequency(sentence))
